@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+videos/
+output/
+processed_data/
+my_data/
+old_files_backup/
+.DS_Store
+.idea/
+.vscode/
